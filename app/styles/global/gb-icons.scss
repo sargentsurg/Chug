@@ -1,0 +1,24 @@
+.icon {
+  background: url("../assets/img/spritesheets/icon-sprite.png") no-repeat;
+  &.icon-help {
+    background-position: -186px -6px;
+  }
+  &.icon-settings {
+    background-position: -143px -29px;
+  }
+  &.icon-mail {
+    background-position: -126px -69px;
+  }
+  &.icon-trash {
+    background-position: -99px -99px;
+  }
+  &.icon-success {
+    background-position: -64px -125px;
+  }
+  &.icon-error {
+    background-position: -34px -155px;
+  }
+  &.icon-info {
+    background-position: -4px -185px;
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Chug",
+  "version": "0.0.0",
+  "authors": [
+    "Sergio Masellis <sergio@modifylabs.com>"
+  ],
+  "description": "Chug 1.0 version",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "1.11.2",
+    "normalize.css": "~3.0.3",
+    "modernizr": "~2.8.3"
+  }
+}
